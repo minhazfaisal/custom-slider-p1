@@ -1,5 +1,5 @@
 .b_prev, .b_next{
-	position: absolute;
+    position: absolute;
     bottom: 5px;
     background-color: transparent;
     border: 0;
